@@ -1,0 +1,17 @@
+There are three types of Machines, Machine1 Machine2 and Machine3. 
+There are three types of validators, Validator1 , Validator2 , Validator3.
+
+Each Validator validates each machine differently.
+
+Write Java classes to design the above problem.
+
+The program runs from a main function , which already has the list of validators and machines.
+Each Validator should print a message during validation 
+
+"Validator X validating Machine Y";
+
+Logic of validation is not required , you can just assume that all machines are valid/invalid.
+
+Also , Please do make assumption on your own if you think anything is missing.
+
+Good Luck!
